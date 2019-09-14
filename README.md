@@ -1,4 +1,5 @@
-# Pixel Art Maker Project
+# Pixel Art Maker Project (from udacity course)
+https://kirinokirino.github.io/project-pixel-art-maker-starter/
 
 ## Table of Contents
 
